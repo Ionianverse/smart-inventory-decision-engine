@@ -118,6 +118,7 @@ Management Reporting
 
 ## 📸 Project Screenshots
 
+📂 [View All Project Screenshots](https://github.com/Ionianverse/smart-inventory-decision-engine/tree/main/screenshots)
 
 ## 📊 Sample Insights Generated
 
